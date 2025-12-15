@@ -1,4 +1,4 @@
-#📊 Sales Forecasting & Customer Behavior Analysis
+# 📊 Sales Forecasting & Customer Behavior Analysis
 
 🔍 Project Overview
 
